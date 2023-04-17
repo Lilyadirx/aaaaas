@@ -1,0 +1,15 @@
+#pau {
+    text-align: center;
+    color: darkolivegreen;
+}
+
+#mero {
+    text-align: center;
+    border: 2px solid black;
+    padding: 2px;
+    width: 1500px;
+    text-align: center;
+    margin: auto;
+    background-color: bisque;
+    font-size: x-large;
+}

@@ -1,0 +1,14 @@
+#horas {
+    border: 2px solid black;
+    padding: 2px;
+    width: 2000px;
+    text-align: center;
+    margin: auto;
+    background-color: bisque;
+    font-size: x-large
+}
+
+#conga {
+    text-align: center;
+    background-color: bisque;
+}
